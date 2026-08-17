@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "75fb",
+      "cityName": "Le Bez",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-05-12T14:09:06.969Z",
+      "notes": "el kontole",
+      "position": {
+        "lat": 43.644025847699496,
+        "lng": 2.4389648437500004
+      }
+    },
+    {
+      "id": "878f",
+      "cityName": "Muel",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-18T10:48:53.133Z",
+      "notes": "",
+      "position": {
+        "lat": 41.47510251346881,
+        "lng": -1.1010527746697132
+      }
+    },
+    {
+      "id": "d22f",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-26T05:10:07.496Z",
+      "notes": "angga kontol\n",
+      "position": {
+        "lat": 40.43022363450862,
+        "lng": -3.6254882812500004
+      }
+    },
+    {
+      "id": "8e67",
+      "cityName": "Kecamatan Tujuh Koto",
+      "country": "Indonesia",
+      "emoji": "🇮🇩",
+      "date": "2026-08-17T15:33:08.916Z",
+      "notes": "i love indonesia",
+      "position": {
+        "lat": -0.9667509997666298,
+        "lng": 102.04101562500001
+      }
+    }
+  ]
+}
